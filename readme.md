@@ -1,4 +1,10 @@
-Bootstrap 5 Admin Dashbaord Template
+# Bootstrap 5 Admin Dashbaord Template
+
+# 👉 Subscribe to My Channel [💙❤️Youtube❤️💙](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
+
+---
+
+## List of Components used in this Tutorial
 
 | Component Name  |                                          Docs                                          |
 | --------------- | :------------------------------------------------------------------------------------: |
@@ -12,3 +18,5 @@ Bootstrap 5 Admin Dashbaord Template
 | DataTables      |                       [DataTables Docs](https://datatables.net/)                       |
 
 ![preview](images/preview.PNG)
+
+### Made with ❤️ - by [FrontEndFunn](https://www.youtube.com/channel/UCpOHt5d6GG-mvo-_pU06rhQ?sub_confirmation=1)
