@@ -11,4 +11,4 @@ Bootstrap 5 Admin Dashbaord Template
 | Chart.js        |          [Chart.js Docs](https://www.chartjs.org/docs/latest/charts/bar.html)          |
 | DataTables      |                       [DataTables Docs](https://datatables.net/)                       |
 
-![preview](images/preview.png)
+![preview](images/preview.PNG)
